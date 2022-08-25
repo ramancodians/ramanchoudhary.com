@@ -9,9 +9,14 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@ant-design/icons": "^4.7.0",
+    "antd": "^4.22.7",
     "babel-plugin-styled-components": "^2.0.7",
+    "date-fns": "^2.29.2",
+    "lodash": "^4.17.21",
     "next": "12.2.5",
     "react": "18.2.0",
+    "react-charts": "^3.0.0-beta.48",
     "react-dom": "18.2.0",
     "styled-components": "^5.3.5"
   },
