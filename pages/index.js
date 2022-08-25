@@ -9,7 +9,7 @@ const Wrap = styled.div`
   padding: 20px;
   max-width: 900px;
   margin: 0px auto;
-  background: red;
+  margin-top: 200px;
 `
 
 const HelloWrap = styled.div`
